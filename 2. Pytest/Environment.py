@@ -1,0 +1,7 @@
+root = "https://playground.learnqa.ru/api/"
+check_type_url = f"{root}check_type"
+check_get_500_url = f"{root}get_500"
+check_get_301_url = f"{root}get_301"
+check_show_all_headers = f"{root}show_all_headers"
+get_cookie = f"{root}get_auth_cookie"
+check_auth_cookie = f"{root}check_auth_cookie"
